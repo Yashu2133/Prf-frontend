@@ -22,6 +22,7 @@ It provides a simple UI for user authentication, including:
 
 ## 📂 Folder Structure
 
+```
 prf-frontend/
 │── src/
 │ ├── App.jsx
@@ -38,6 +39,7 @@ prf-frontend/
 │ │ └── Logout.jsx
 │ └── index.css
 
+```
 ---
 
 ## 📦 Installation
