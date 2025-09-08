@@ -69,7 +69,5 @@ npm run dev
 
 ## Netlify deployed URL
 
- ```bash
- https://passresettt.netlify.app/
- ```
+- **https://passresettt.netlify.app/**
  ---
