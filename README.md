@@ -11,7 +11,7 @@ It provides a simple UI for user authentication, including:
 
 ---
 
-## 🚀 Features
+## 🚀 Feature
 - React Router v7 for routing.
 - Axios for API communication.
 - TailwindCSS for styling.
